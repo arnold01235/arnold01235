@@ -13,7 +13,5 @@ const user = {
   code: ["Java", "JavaScript", "Python", "TypeScript", "C#"],
   tools: ["Docker", "GitHub Actions", "Unity"],
   cloud: ["AWS", "Oracle Cloud", "Digital Ocean"],
-  architecture: ["cloud-native", "microservices", "distributed systems"],
-  challenge: "Currently deepening my knowledge of cloud infrastructure and DevOps practices",
   education: "Bachelor's Degree in Computer Engineering from NTNU Trondheim"
 }
