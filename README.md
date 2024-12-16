@@ -1,18 +1,19 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnold01235)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Arnold
 
+### Platform Engineer at Brønnøysund Register Centre 
+🎓 Bachelor's Degree in Computer Engineering from [NTNU Trondheim](https://www.ntnu.edu)
 
-<!--
-**arnold01235/arnold01235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media1.tenor.com/m/ZHubzs-mQ7kAAAAd/blinky-blinking.gif" width="50">
 
-Here are some ideas to get you started:
+### 💻 A little more about me...
+<img src="https://media1.tenor.com/m/bfLfPdo2lHkAAAAd/cat-normal.gif" width="100">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const user = {
+  code: ["Java", "JavaScript", "Python", "TypeScript", "C#"],
+  tools: ["Docker", "GitHub Actions", "Unity"],
+  cloud: ["AWS", "Oracle Cloud", "Digital Ocean"],
+  architecture: ["cloud-native", "microservices", "distributed systems"],
+  challenge: "Currently deepening my knowledge of cloud infrastructure and DevOps practices",
+  education: "Bachelor's Degree in Computer Engineering from NTNU Trondheim"
+}
